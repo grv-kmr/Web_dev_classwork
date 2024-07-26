@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif;
+
+  }
+  header{
+    background-color: #f0f0f0;
+    padding: 15px;
+  }
+
+  header h1{
+
+    text-align: center;
+
+  }
+
+  .col{
+    color: #ef8286;
+  }
+
+  footer{
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 15px;
+  }
+  article {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-bottom: 1px solid black;
+}
